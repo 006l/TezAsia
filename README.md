@@ -28,7 +28,7 @@
 	- NFT x Life
     
 -   Project repo link
-    
+	- [Project link](https://github.com/006l/TezAsia) 
 -   Demo video link
 	- [Demo video](https://pan.baidu.com/s/1sVLmBkPcIKCNo0ybuBvFiw?pwd=oqs0)
     
